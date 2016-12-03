@@ -1,0 +1,274 @@
+.body{
+	padding:70px;	
+	
+	}
+	
+	.navbar-inverse .navbar-nav>.active>a,
+	 .navbar-inverse .navbar-nav>.active>a:focus,
+	  	 .navbar-inverse .navbar-nav>.active>a:hover
+		 {
+			 background:#194c60;
+			 }
+			
+			 
+			 .dropdown.menu{
+				 background:#333;
+				 border-top-color:3px solid #E41B17
+				 
+				 }
+			 
+			 
+			 
+			 .dropdown-menu>li>a 
+			 {
+				 color:#194c60;
+				 padding:6px 20px;
+				 .webkit-transition:padding 0.5s ease;
+				 .moz-transition:padding 0.5s ease;
+				 .o-transition:padding 0.5s ease;
+				 .transition:padding 0.5s ease;
+				 }
+				 .navbar-right .dropdown-menu{
+					 right: auto;
+    				left: 0;
+					 
+					 
+					 }
+			.dropdown-menu >>li>a:hover,
+			.dropdown-menu >>li>a:focus
+		{
+			
+			 background:#E41B17;
+			color:red;
+			padding-left:25px;
+			}	 
+			
+			.navbar-inverse .navbar-nav>li>a {
+				 color:#63acbe;
+			}
+			
+			
+			.dropdown-menu .divider
+			{
+				
+				background-color:#FC3
+				
+				
+				}
+				
+			
+			.dropdown-menu{
+				background-color:#080707;
+			}
+			
+			
+			
+			
+			.navbar-brand span{
+				
+				color:#63acbe;
+				}
+				
+				
+				
+				/*carousel*/
+				
+				.carousel-caption{
+					
+					bottom:100px;
+					background:rgba(3,3,3, 0.2 );
+					color:#080707;
+					padding-right:20px;
+					padding-left:20px;
+						bottom:250px;
+					}
+				.carousel-indicators{
+					
+					bottom:0px;
+					
+					}
+				
+				.carousel-indicators li
+				{
+					
+					height:20px;
+					width:20px;
+					border-color:#080707;
+					border-width:medium;
+					
+					}
+				
+				.carousel-indicators .active
+				{
+					
+					height:23px;
+					width:23px;
+					background:#63acbe;
+					
+					}
+				
+				/*product*/
+				
+				.profile-product
+				{
+					padding:70px;
+					}
+					
+					.i-sizee
+					{
+						background:#000;
+						max-width:110%;
+  						  max-height:100%;
+						}
+					
+					
+						
+						
+						.col-lg-3 ,p
+						{
+							text-align:center;
+							color:#63acbe;
+							
+							}
+							
+							.carousel-treatment .cta-container
+							{
+								
+								    vertical-align: bottom;
+									}
+									
+									
+									
+									
+									
+									
+									
+									
+									
+					
+		/*section features */
+		
+		.features {
+			
+			background:#EEE;
+			padding-top:50px;
+			padding-bottom:50px;
+			}
+		
+				h1
+				{
+				font-weight:bold;	}
+				
+				
+				.features .feat p {
+					
+					line-height:2em;
+					}
+					.features h1 {
+						
+						margin-bottom:50px;
+						}
+					
+					.features .feat span.glyphicon{
+						
+						font-size:25px;
+						margin-bottom:10px;
+						color:#06C;
+						}
+						
+						/*section price table */
+						
+						.price_table{
+							
+							background:#CCC;
+							padding-top:40px;
+							padding-bottom:40px;
+							
+							
+							}
+						
+						.price_table h1{
+							margin-bottom:40px;
+							
+							
+							}
+							
+							.price_table .price_box
+							{
+								
+								background:#FFF;
+								padding:10px;
+								border:1px solid #DDD;
+								margin-bottom:15px
+								}
+								
+								.price_table .price_box h2 {
+									
+									margin:5px 0 15px; 
+									
+									
+									}
+									
+									.price_table .price_box:hover p 
+									{
+										
+										border:2px solid #F00;
+										-webkit-transform:scale(1.1,1.1)rotate(360deg);
+										-moz-transform:scale(1.1,1.1)rotate(360deg);
+										-o-transform:scale(1.1,1.1)rotate(360deg);
+										transform:scale(1.1,1.1)rotate(360deg);
+										
+										}
+									
+									.price_table .price_box p {
+										
+									font-size:35px;
+									font-weight:bold;
+									color:#1b1b1b;
+									width:100px;
+									height:100px;
+									background:#F3F3F3;
+									border-radius:50%;
+									line-height:100px;
+									-webkit-transition-duration:0.7s;
+									-moz-transition-duration:0.7s;
+									-o-transition-duration:0.7s;
+									transition-duration:0.7s;
+									
+									
+										
+									}
+									.price_table .price_box ul
+									{
+										
+										line-height:250%;
+										font-size:18px
+										
+										
+										}
+										
+										.price_table .price_box a
+										{
+											
+											margin-bottom:5px
+											
+											
+											}
+											
+											
+											
+											
+											/* contactss*/
+											
+											
+											.contactss{
+												
+												padding:70px;
+												
+												}
+												
+												 .lele
+												{
+														padding:70px;
+													
+													}
